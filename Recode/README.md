@@ -2,7 +2,8 @@
 
 **CodeCraft** is a beautifully designed, responsive web application for coding enthusiasts. It features tutorials, challenges, and interactive learning tools. Built with **React (Vite)** and **Tailwind CSS**, this project demonstrates best practices in frontend development and user experience.
 
-![CodeCraft Demo](https://codecraft-by-rehan.netlify.app/)
+[Visit Site on Netlify](https://codecraft-by-rehan.netlify.app/)
+![CodeCraft Banner](./public/website1.png)
 
 ---
 
